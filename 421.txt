@@ -1,0 +1,16 @@
+1、面试网络题1---10（参考tcp/ip）
+2、linux系统编程3、4.
+3、数据库笔记
+4、数据结构排序
+5、简历
+
+
+修改项目下.git/config
+
+将原来的
+
+http://git.xxx.com/xxxxx/xxxx.git
+
+改为
+
+ http://username:password@git.xxxx.com/xxxxx/xxxx.git
